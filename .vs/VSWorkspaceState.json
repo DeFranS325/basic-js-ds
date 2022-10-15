@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\test"
   ],
-  "SelectedNode": "\\D:\\0.GitHub\\basic-js-ds",
+  "SelectedNode": "\\test\\remove-from-list.test.js",
   "PreviewInSolutionExplorer": false
 }
